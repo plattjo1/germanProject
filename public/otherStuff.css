@@ -1,7 +1,7 @@
 
 .germVideo {
     margin: auto;
-    width: 45%;
+    width: 77%;
     padding: 10px;
 }
 
@@ -9,4 +9,11 @@
   height: 600px;
   width: 550px;
 
+}
+
+.whyMe{
+
+  margin: auto;
+  width: 42%;
+  padding: 10px;
 }
